@@ -10,5 +10,10 @@ Composer and Delivery scripts will be Added such as
 deploy.sh -php -db [name] 
 ```
 
+## Running the Scripts
 
+In Linux after cloning the git, please enter the directory 
 
+```
+ubuntu@ubuntu ~ php [script-name].php
+```
